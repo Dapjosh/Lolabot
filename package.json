@@ -1,0 +1,28 @@
+{
+  "name": "oladapo",
+  "version": "1.0.0",
+  "description": "a messenger bot called lola to help business make post and provide keywords about what they offer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dapjosh/Lolabot.git"
+  },
+  "keywords": [
+    "messenger",
+    "bot"
+  ],
+  "author": "oladapo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dapjosh/Lolabot/issues"
+  },
+  "homepage": "https://github.com/Dapjosh/Lolabot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
